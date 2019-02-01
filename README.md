@@ -5,3 +5,5 @@
 Using MySQL and Inquirer npm packages I have created an Amazon-like storefront. You are given 10 things in the inventory and have to order whichever one. However there is a limited stock and if you order more than is available you will get a message notifying you that there is no more of that product available!
 
 Just keep answering the prompts and see the magic!
+
+https://drive.google.com/file/d/1JflOWoPSeqWFi9xQIDLxmKgWHbPJznHJ/view
